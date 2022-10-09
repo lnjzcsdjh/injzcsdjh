@@ -527,7 +527,7 @@ Enunwa
 Epenesa
 Epps
 Erickson
-Ertz
+English
 Ervin
 Erving
 Eskridge
@@ -1163,6 +1163,7 @@ McMath
 McMillan
 McMillian
 McNeill
+Minnaiear
 McNichols
 McPhearson
 McPhee
@@ -1898,7 +1899,7 @@ Wreh
 Wren
 Wright
 Wylie
-Wynn
+Wyatt
 Ximines
 Ya-Sin
 Yancey
