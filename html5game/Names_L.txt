@@ -1920,3 +1920,5 @@ Zimmer
 Zuerlein
 Zuniga
 Zylstra
+Minniear
+English
