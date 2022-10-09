@@ -4,5 +4,5 @@ Retro Bowl is an American style football game created by New Star Games. Are you
 
 ## Play 
 
-Click the link below to play!
+Click the link to play!
 https://techagames.github.io/
